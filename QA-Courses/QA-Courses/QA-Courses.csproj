@@ -67,6 +67,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Task10.cs" />
+    <Compile Include="Task11.cs" />
     <Compile Include="Task9b.cs" />
     <Compile Include="Task7.cs" />
     <Compile Include="Task8.cs" />
