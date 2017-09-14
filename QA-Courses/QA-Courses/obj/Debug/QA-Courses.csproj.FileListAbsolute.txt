@@ -17,3 +17,4 @@ C:\qa-courses\QA-Courses\QA-Courses\QA-Courses\bin\Debug\WebDriver.Support.xml
 C:\qa-courses\QA-Courses\QA-Courses\QA-Courses\obj\Debug\QA-Courses.dll
 C:\qa-courses\QA-Courses\QA-Courses\QA-Courses\obj\Debug\QA-Courses.pdb
 C:\qa-courses\QA-Courses\QA-Courses\QA-Courses\obj\Debug\QA-Courses.csprojResolveAssemblyReference.cache
+C:\qa-courses\QA-Courses\QA-Courses\QA-Courses\bin\Debug\bla.jpg
