@@ -96,13 +96,13 @@ namespace QA_Courses
 
 
         }
-        /*
+        
         [TearDown]
         public void stop()
         {
             driver.Quit();
             driver = null;
         }
-        */
+        
     }
 }
