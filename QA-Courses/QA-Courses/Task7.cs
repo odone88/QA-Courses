@@ -28,7 +28,7 @@ namespace QA_Courses
         [Test]
         public void TestFromTaskSeven()
         {
-            driver.Url = "http://localhost/litecard/public_html/admin/login.php?redirect_url=%2Flitecard%2Fpublic_html%2Fadmin%2F";
+            driver.Url = "http://localhost:8080/litecard/admin/login.php?redirect_url=%2Flitecard%2Fadmin%2F";
             driver.FindElement(By.Name("username")).SendKeys("admin");
             driver.FindElement(By.Name("password")).SendKeys("admin");
             driver.FindElement(By.Name("login")).Click();
