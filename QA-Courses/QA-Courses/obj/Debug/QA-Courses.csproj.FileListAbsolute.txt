@@ -7,7 +7,6 @@ C:\qa-courses\QA-Courses\QA-Courses\QA-Courses\bin\Debug\Mono.Cecil.Mdb.dll
 C:\qa-courses\QA-Courses\QA-Courses\QA-Courses\bin\Debug\Mono.Cecil.Rocks.dll
 C:\qa-courses\QA-Courses\QA-Courses\QA-Courses\bin\Debug\QA-Courses.dll
 C:\qa-courses\QA-Courses\QA-Courses\QA-Courses\bin\Debug\QA-Courses.pdb
-C:\qa-courses\QA-Courses\QA-Courses\QA-Courses\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\qa-courses\QA-Courses\QA-Courses\QA-Courses\bin\Debug\nunit.framework.dll
 C:\qa-courses\QA-Courses\QA-Courses\QA-Courses\bin\Debug\WebDriver.dll
 C:\qa-courses\QA-Courses\QA-Courses\QA-Courses\bin\Debug\WebDriver.Support.dll

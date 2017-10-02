@@ -61,7 +61,9 @@
     </When>
     <Otherwise>
       <ItemGroup>
-        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework" />
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework">
+          <Private>False</Private>
+        </Reference>
       </ItemGroup>
     </Otherwise>
   </Choose>
@@ -73,6 +75,14 @@
     <Compile Include="Task13.cs" />
     <Compile Include="Task14.cs" />
     <Compile Include="Task17.cs" />
+    <Compile Include="Task19\Driver\DriverContext.cs" />
+    <Compile Include="Task19\Pages\CartPage.cs" />
+    <Compile Include="Task19\Pages\MainPage.cs" />
+    <Compile Include="Task19\Pages\Page.cs" />
+    <Compile Include="Task19\Pages\ProductPage.cs" />
+    <Compile Include="Task19\Test\Task19Test.cs" />
+    <Compile Include="Task19\Test\TestBase.cs" />
+    <None Include="Task19\Test\sqq" />
     <Compile Include="Task9b.cs" />
     <Compile Include="Task7.cs" />
     <Compile Include="Task8.cs" />
@@ -88,6 +98,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
+  <ItemGroup />
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
